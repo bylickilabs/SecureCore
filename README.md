@@ -2,6 +2,9 @@
 
 **Multilinguale Desktop-Sicherheitsanwendung für Datei-, Verzeichnis- und Archivverschlüsselung, Hash-Prüfungen und Passwortverwaltung.**
 
+|<img width="1280" height="640" alt="securecore" src="https://github.com/user-attachments/assets/78adf9f6-3187-4cb4-9871-10e8a25f501b" />|
+|---|
+
 ---
 
 ## 📖 Übersicht | Overview
